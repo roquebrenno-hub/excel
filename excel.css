@@ -1,4 +1,4 @@
-*{
+
     box-sizing: border-box;
     margin: 0;}
 body{
@@ -98,7 +98,7 @@ mark{
 .img2{
     width: 40%;
     height: 5%;
-   float:inline-end;
+   float: rigth;
    margin-right: 65%;
    
 }
@@ -305,5 +305,6 @@ h2{
    background-color: green;
 }
     }
+
 
 
